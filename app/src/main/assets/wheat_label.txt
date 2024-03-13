@@ -1,0 +1,3 @@
+0 Healthy
+1 septoria
+2 stripe_rust
